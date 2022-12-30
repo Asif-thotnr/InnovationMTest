@@ -64,7 +64,7 @@ public class Employee {
     @Override
     public String toString() {
         return "id = " + this.getId() + " --  empId = " + this.getEmpId() + " -- empFName " + this.getEmpFName()
-                + " -- empLName" + this.getEmpLName() + " -- designationId " + this.getDesignationId()
-                + " -- designation " + this.getDesignation();
+                + " -- empLName" + this.getEmpLName() + " -- designationId " + this.getDesignationId();
+//                + " -- designation " + this.getDesignation();
     }
 }
