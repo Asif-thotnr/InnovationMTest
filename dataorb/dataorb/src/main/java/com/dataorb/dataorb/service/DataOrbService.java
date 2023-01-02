@@ -24,7 +24,7 @@ public class DataOrbService {
 	public Map<String, Object> getAllEmployees() throws Exception {
 		return designationsRepository.getAllEmployees();
 	}
-
+ 
 
 	/**
 	 * This method use to get total employees joined details monthly

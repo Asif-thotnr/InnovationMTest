@@ -1,1 +1,22 @@
-1, emp910, vikas, sharma, Architect, ONBOARD, 10-8-2022, 10-10-2022, vikas sharma is going to join SE 
+1, emp101, Bill, Gates, Software Engineer,ONBOARD, 10-7-2022, 10-10-2022, bill Gates is going to join DataOrb on 1stNovember as a SE.” 
+2, emp102, Md, Asif,Sr. Software Engineer,ONBOARD, 10-2-2022, 10-10-2022, md asif is going to join DataOrb on 1st march as a sr SE.” 
+3, emp903, Ankit, malhotra, Architect,ONBOARD, 10-8-2022,10-10-2022, ankit malhotra is going to join DataOrb on 1stNovember as a SE.” 
+4, emp904, Birju, yadav, Architect,ONBOARD, 10-9-2021,10-10-2022, Birju yadav is going to join DataOrb on 1stNovember as a SE.” 
+5, emp905, Birju, yadav, Architect,ONBOARD, 10-9-2021,10-10-2022, Birju yadav is going to join DataOrb on 1stNovember as a SE.” 
+6, emp906, vajay, dubay, Software Engineer,ONBOARD, 10-7-2022, 10-10-2022, vijay dubay is going to join DataOrb on 1stNovember as a SE.” 
+7, emp907, Ajay, verma ,Sr. Software Engineer,ONBOARD, 10-2-2022, 10-10-2022, ajay verma is going to join DataOrb on 1st march as a sr SE.” 
+8, emp904, SALARY, 41000, 10-10-2022,“Salary of OCT 2020 month”
+9, emp905, SALARY, 24300, 10-10-2022,“Salary of OCT 2020 month”
+10, emp906, SALARY, 34000, 10-10-2022,“Salary of OCT 2020 month”
+11, emp907, SALARY, 24000, 10-10-2022,“Salary of OCT 2020 month”
+21, emp908, SALARY, 34000, 10-10-2022,“Salary of OCT 2020 month”
+22, emp909, SALARY, 24000, 10-10-2022,“Salary of OCT 2020 month”
+12, emp901, BONUS, 1000, 10-10-2022,“Performance bonus of year 2022”
+13, emp902, BONUS, 1200, 10-8-2022,“Performance bonus of year 2022”
+14, emp9110, BONUS, 2000, 10-9-2022,“Performance bonus of year 2022”
+15, emp901, EXIT, 19-10-2022, 10-10-2022,“Leaving for further study”
+16, emp902, EXIT, 19-10-2022, 10-10-2022,“new job”
+17, emp903, EXIT, 1-11-2022, 10-10-2022,“Leaving for further study”
+18, emp910, REIMBURSEMENT, 100, 10-10-2020, “cab expenses”
+19, emp911, REIMBURSEMENT, 100, 10-10-2020, “hotel expenses”
+20, emp905, REIMBURSEMENT, 100, 10-10-2020, “Traveling expenses”
